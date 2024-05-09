@@ -11,5 +11,5 @@ Express.js: Web framework for Node.js that simplifies building web applications.
 <h3>Frontend:</h3>
 EJS: Templating engine for generating dynamic HTML content.
 
-This project demonstrates skills in building web applications with Node.js and Express.js.
+Notes: This project demonstrates skills in building web applications with Node.js and Express.js.
 The project structure is well-organized, separating concerns between models, views, and static assets.
