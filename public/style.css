@@ -1,0 +1,18 @@
+body{
+    /* margin-left: 20px; */
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.chat{
+    background-color: rgb(238, 247, 178);
+    padding: 20px;
+    border-radius: 16px;
+    display: inline-block;
+}
+.msg{
+    background-color: olivedrab;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 10px;
+}
