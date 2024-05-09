@@ -1,9 +1,7 @@
 # ChatBox
 This project is a real-time chat application built with Node.js and Express.js. It allows users to communicate with each other in real-time.
-
 <h2>Features</h2>
 One-on-one messaging: Users can send and receive private messages to each other.
-
 <h2>Technologies Used</h2>
 <h3>Backend:</h3
 Node.js: JavaScript runtime environment used to build the server-side logic of the application.
